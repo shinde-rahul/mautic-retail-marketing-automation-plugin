@@ -63,7 +63,7 @@ FAQ
 Maintainers
 -----------
 
-1. Rahul Shinde, [Axelerant Technologies][AxelerantHome]
+1. Rahul Shinde, Alumini, [Axelerant Technologies][AxelerantHome]
 2. Prateek Jain, [Axelerant Technologies][AxelerantHome]
 3. Abhisek Dhariwal, [Axelerant Technologies][AxelerantHome]
 4. Gaurav Chauhan, [Axelerant Technologies][AxelerantHome]
